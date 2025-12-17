@@ -11,6 +11,7 @@ import java.util.UUID;
 public class User {
 
     @Id
+    // Gerando valor aleatório para o id do usuário (padrão UUID)
     @GeneratedValue(strategy = GenerationType.UUID)
     @Column(name = "user_id")
     private UUID id;

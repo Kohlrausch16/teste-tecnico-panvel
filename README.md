@@ -2,7 +2,11 @@
 
 ## Descrição
 
-Solução de teste técnico para vága de estágio em desenvolvimento Backend - Panvel.
+Solução de teste técnico para vaga de estágio em desenvolvimento Backend - Panvel.
+
+Linguagens e tecnologias: 
+    - Java 21;
+    - Spring Boot 4.0.0
 
 ## Rotas
 

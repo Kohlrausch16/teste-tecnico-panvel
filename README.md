@@ -58,6 +58,9 @@ Para a solução do teste proposto, foi implementado o banco de dados H2 Databas
 Para consultar o banco em questão, acessar a rota /h2-console e utilizar as credenciais conforme a imagem abaixo:
 
 ```
+
+http://localhost:8080/h2-console
+
 JDBC URL: jdbc:h2:mem:testedb
 Username: sa
 Password: <campo vazio>
@@ -70,4 +73,4 @@ Password: <campo vazio>
 - Spring Web;
 - Spring Data JPA;
 - Lombok;
-- H2 Database
+- H2 Database.

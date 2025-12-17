@@ -60,7 +60,7 @@ public class UserService {
     // Método auxiliar para sobrescrever os campos de usuário
     private User updateUserData(User foundUser, User newUserData){
         // Sobrescreve o nome do usuário
-        foundUser.setName(newUserData.getName());[
+        foundUser.setName(newUserData.getName());
 
         // Sobrescreve o email do usuário
         foundUser.setEmail(newUserData.getEmail());
